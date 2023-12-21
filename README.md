@@ -169,8 +169,9 @@ calc.html
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-21 112941.png>)
-![Alt text](<Screenshot 2023-12-21 112959.png>)
+![Screenshot 2023-12-21 112959](https://github.com/HEMAKESHG/Calc/assets/144870552/95734d52-1859-4d7e-9e64-ee6c8151226e)
+![Screenshot 2023-12-21 112941](https://github.com/HEMAKESHG/Calc/assets/144870552/a4d8e5cd-966a-4bde-964d-361a88317485)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
